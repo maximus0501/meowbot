@@ -4,7 +4,7 @@ import time
 API_URL = 'https://api.telegram.org/bot'
 API_CATS_URL = 'https://api.thecatapi.com/v1/images/search'
 API_DOGS_URL = 'https://api.thedogapi.com/v1/images/search'
-BOT_TOKEN = '8187235530:AAFZBhq4qi9bSKt5nwtoOfQz5lAWrql3PCc'
+BOT_TOKEN = '<your_token>'
 ERROR_TEXT = 'Извини, на нашем сервере сбой :( Попробуй позже'
 USER_ERR_TEXT = 'Извини, я тебя не понял uwu Нажми /help, если нужна помощь (мяяяу)'
 HELP_TEXT = '''
